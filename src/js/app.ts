@@ -75,7 +75,7 @@ class App {
     for (let y = 0; y < this.#canvas.height; y += this.#cellHeightSize) {
       for (let x = 0; x < this.#canvas.width; x += this.#cellWidthSize) {
         const i = (y * this.#canvas.width + x) * 4
-        if (currentData[i] === 0) {
+        if (currentData[i] < 200) {
           this.#drawApple(x, y)
         }
       }
