@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/d3p1/bad-apple-with-apples-effect/compare/v1.0.0...v1.1.0) (2025-03-15)
+
+
+### Features
+
+* init effect [[#1](https://github.com/d3p1/bad-apple-with-apples-effect/issues/1)] ([72226bc](https://github.com/d3p1/bad-apple-with-apples-effect/commit/72226bc7fec2fdf64f73e82af9c8f68e4b6ccbfc))
+
 # 1.0.0 (2025-03-15)
 
 
