@@ -4,7 +4,7 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
-[![Release](https://github.com/d3p1/bad-apple-with-apples/actions/workflows/release.yml/badge.svg)](https://github.com/d3p1/bad-apple-with-apples/actions/workflows/release.yml)
+[![Release](https://github.com/d3p1/bad-apple-with-apples-effect/actions/workflows/release.yml/badge.svg)](https://github.com/d3p1/bad-apple-with-apples-effect/actions/workflows/release.yml)
 
 </div>
 
