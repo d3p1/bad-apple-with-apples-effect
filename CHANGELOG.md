@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/d3p1/bad-apple-with-apples-effect/compare/v1.1.0...v1.2.0) (2025-03-15)
+
+
+### Features
+
+* improve effect [[#1](https://github.com/d3p1/bad-apple-with-apples-effect/issues/1)] ([deea970](https://github.com/d3p1/bad-apple-with-apples-effect/commit/deea970ca4f614a85768a9c89f75973c1338983b))
+
 # [1.1.0](https://github.com/d3p1/bad-apple-with-apples-effect/compare/v1.0.0...v1.1.0) (2025-03-15)
 
 
