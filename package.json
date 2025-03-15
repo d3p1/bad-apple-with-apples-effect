@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/bad-apple-with-apples-effect",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "An apple collection effect over the \"Bad Apple!!\" video to improve my JS skills",
   "private": true,
   "type": "module",

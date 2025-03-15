@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/d3p1/bad-apple-with-apples-effect/compare/v1.2.0...v1.2.1) (2025-03-15)
+
+
+### Bug Fixes
+
+* add final build [[#1](https://github.com/d3p1/bad-apple-with-apples-effect/issues/1)] ([a418630](https://github.com/d3p1/bad-apple-with-apples-effect/commit/a4186308017bf1975fa9a0aeec0f42fad7ab308c))
+
 # [1.2.0](https://github.com/d3p1/bad-apple-with-apples-effect/compare/v1.1.0...v1.2.0) (2025-03-15)
 
 
